@@ -1,6 +1,6 @@
 # Kaan Ses
 
-Software developer in Istanbul (UTC+3). I ship products end-to-end — first commit through payments, App Review, and DNS to a live URL. Committing almost every day while doing it.
+Software developer, Committing almost every day while doing it.
 
 ## Shipped & live
 
