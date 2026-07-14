@@ -58,9 +58,4 @@
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=kaanses&hide_border=true&background=00000000&ring=3730a3&fire=3730a3&currStreakLabel=24292f&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kaanses&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaanses&show_icons=true&hide_border=true&bg_color=00000000&title_color=3730a3&icon_color=3730a3&text_color=24292f">
-</picture>
-
 </div>
